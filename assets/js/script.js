@@ -208,12 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Function to generate ASCII art
   function getAsciiArt() {
       return `
-    ███████╗██████╗ 
-    ██╔════╝╚════██╗
-    ███████╗ █████╔╝
-    ╚════██║██╔═══╝ 
-    ███████║███████╗
-    ╚══════╝╚══════╝
+    1337 usta bi binayı 15 dkda yapıyosa 1 orospu fahişe terzi 1 xrd formasını kaç dkda diker?
                     
   `;
   }
