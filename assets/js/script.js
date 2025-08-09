@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initial terminal text content
   var terminalTextContent = [
-      "User: unknown",
+      "User: noname",
       "IP: Loading...",
       "System: Loading...", // System information placeholder
       "Bio Loaded",
